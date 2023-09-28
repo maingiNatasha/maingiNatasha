@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natasha Maingi, a software developer from Kenya.
 - 👀 As a recent graduate, I am currently interested in learning more about Software Development basics.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Fullstack Web Development
 -  I love writing code and getting to learn more about the Software Engineering field.
 
 <!---
